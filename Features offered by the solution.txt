@@ -1,0 +1,22 @@
+List of features offered by the solution
+Climate Control
+Temperature Regulation: 
+Adjustable heating and cooling systems.
+Humidity Management: 
+Automated systems to control moisture levels.
+Ventilation: 
+Adjustable windows, fans, and vents for air circulation.Resource Efficiency
+Irrigation Systems: 
+Drip and mist irrigation for precise water delivery.
+Fertigation Systems: 
+Controlled application of fertilizers through irrigation.
+Natural Light Utilization: 
+Maximizes use of sunlight to reduce artificial lighting needs.Production Flexibility
+Year-Round Cultivation:
+ Enables continuous crop production through all seasons.
+Multiple Crop Cycles: 
+Facilitates multiple harvests per year.
+Monitoring and Automation
+Sensors and Data Collection: 
+Monitors environmental conditions and crop health.
+
