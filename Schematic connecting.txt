@@ -1,0 +1,25 @@
+Schematic:
+
+DHT11:
+
+Data (OUT) ? Digital pin 4
+VCC ? 5V
+GND ? GND
+Ultrasonic Sensor (HC-SR04):
+Trig ? Digital pin 2
+Echo ? Digital pin 3
+VCC ? 5V
+GND ? GND
+
+Soil Moisture Sensor:
+
+Analog Output ? Analog pin A0
+VCC ? 5V
+GND ? GND
+
+LCD (I2C):
+
+SDA ? SDA pin on Arduino
+SCL ? SCL pin on Arduino
+VCC ? 5V
+GND ? GND
